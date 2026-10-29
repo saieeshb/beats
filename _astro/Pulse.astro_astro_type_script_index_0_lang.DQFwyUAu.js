@@ -1,0 +1,1 @@
+import{t as e}from"./rings.4NcL5ZYB.js";var t=document.querySelector(`.pulse canvas`);t&&e(t,{mono:!0});

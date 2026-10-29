@@ -1,0 +1,1 @@
+import{t as e}from"./rings-kikk.PhSnyQ-D.js";var t=document.querySelector(`.pulse canvas`);if(t){let n=new IntersectionObserver(([r])=>{r.isIntersecting&&(n.disconnect(),e(t,{mono:!0}))},{rootMargin:`200px`});n.observe(t)}
